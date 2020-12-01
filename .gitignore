@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+aud2/.vs/aud2/v16/.suo
+*.db
+*.ipch
