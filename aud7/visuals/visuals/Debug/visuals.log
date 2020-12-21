@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(157,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(157,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(158,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(158,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(159,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(159,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(160,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(160,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\дикий кабан\Desktop\visuals\visuals\MyForm.h(154): warning C4700: использована неинициализированная локальная переменная "x"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  visuals.vcxproj -> C:\Users\дикий кабан\Desktop\visuals\Debug\visuals.exe

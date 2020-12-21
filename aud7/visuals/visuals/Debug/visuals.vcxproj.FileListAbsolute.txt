@@ -1,0 +1,3 @@
+C:\Users\дикий кабан\Desktop\visuals\visuals\Debug\visuals.vcxprojAssemblyReference.cache
+C:\Users\дикий кабан\Desktop\visuals\visuals\Debug\visuals.MyForm.resources
+C:\Users\дикий кабан\Desktop\visuals\visuals\Debug\visuals.vcxproj.GenerateResource.cache
